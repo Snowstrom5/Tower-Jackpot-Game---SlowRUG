@@ -38,5 +38,5 @@ yarn dev
 ```
 
 ## Contact
-- Twitter: [@PtcBink](https://twitter.com/ptcbink)
-- Telegram: [@PtcBink](https://t.me/ptcbink)
+- Twitter: [@kakamajo_btc](https://x.com/kakamajo_btc)
+- Telegram: [@naruto9554](https://t.me/naruto9554)
