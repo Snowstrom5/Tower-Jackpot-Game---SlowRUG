@@ -27,7 +27,7 @@ SlowRUG is a Solana-based tower jackpot game where players can wager SOL and com
 ## Installation & Setup
 ```sh
 # Clone the repository
-git clone https://github.com/ptcbink/solana-jackpot-game.git
+git clone [https://github.com//solana-jackpot-game.git](https://github.com/Snowstrom5/Tower-Jackpot-Game---SlowRUG)
 cd solana-jackpot-game
 
 # Install dependencies
@@ -38,5 +38,5 @@ yarn dev
 ```
 
 ## Contact
-- Twitter: [@kakamajo_btc](https://x.com/kakamajo_btc)
-- Telegram: [@naruto9554](https://t.me/naruto9554)
+- Telegram: [@naruto9554](https://t.me/@powerful_dev)
+- If you have some question in this proect, feel free to reach out.
